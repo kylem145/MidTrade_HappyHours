@@ -15,6 +15,7 @@
 		CEEEB0CD1D0E6A7D00D980B0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CEEEB0CB1D0E6A7D00D980B0 /* LaunchScreen.storyboard */; };
 		CEEEB0D81D0E6A7E00D980B0 /* MidTrade_HappyHoursTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEEEB0D71D0E6A7E00D980B0 /* MidTrade_HappyHoursTests.swift */; };
 		CEEEB0E31D0E6A7F00D980B0 /* MidTrade_HappyHoursUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEEEB0E21D0E6A7F00D980B0 /* MidTrade_HappyHoursUITests.swift */; };
+		CEEEB0F11D0E6F5D00D980B0 /* MidTradelightred.png in Resources */ = {isa = PBXBuildFile; fileRef = CEEEB0F01D0E6F5D00D980B0 /* MidTradelightred.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		CEEEB0DE1D0E6A7F00D980B0 /* MidTrade_HappyHoursUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MidTrade_HappyHoursUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEEEB0E21D0E6A7F00D980B0 /* MidTrade_HappyHoursUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MidTrade_HappyHoursUITests.swift; sourceTree = "<group>"; };
 		CEEEB0E41D0E6A7F00D980B0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CEEEB0F01D0E6F5D00D980B0 /* MidTradelightred.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = MidTradelightred.png; path = ../../MidTradelightred.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				CEEEB0C21D0E6A7C00D980B0 /* FirstViewController.swift */,
 				CEEEB0C41D0E6A7C00D980B0 /* SecondViewController.swift */,
 				CEEEB0C61D0E6A7C00D980B0 /* Main.storyboard */,
+				CEEEB0F01D0E6F5D00D980B0 /* MidTradelightred.png */,
 				CEEEB0C91D0E6A7D00D980B0 /* Assets.xcassets */,
 				CEEEB0CB1D0E6A7D00D980B0 /* LaunchScreen.storyboard */,
 				CEEEB0CE1D0E6A7D00D980B0 /* Info.plist */,
@@ -235,6 +238,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CEEEB0F11D0E6F5D00D980B0 /* MidTradelightred.png in Resources */,
 				CEEEB0CD1D0E6A7D00D980B0 /* LaunchScreen.storyboard in Resources */,
 				CEEEB0CA1D0E6A7D00D980B0 /* Assets.xcassets in Resources */,
 				CEEEB0C81D0E6A7C00D980B0 /* Main.storyboard in Resources */,
